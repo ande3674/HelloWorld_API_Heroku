@@ -14,7 +14,10 @@ public class ComplimentController {
             new Compliment("You look pretty today!"),
             new Compliment("You are a great programmer."),
             new Compliment("I hope you have a wonderful night!"),
-            new Compliment("You are a nice person.")
+            new Compliment("You are a nice person."),
+            new Compliment("You have cool hair."),
+            new Compliment("You are UNIQUE!"),
+            new Compliment("You have a really cool daughter!")
     };
 
     private Random rnd = new Random();
