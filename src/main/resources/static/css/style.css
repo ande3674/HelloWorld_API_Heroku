@@ -1,13 +1,19 @@
 body {
     background: mistyrose;
-    color: gold;
+    color: burlywood;
     font-family: "Calibri Light";
     font-size: large;
 }
 
 button {
     background: aliceblue;
-    color: gold;
+    color: burlywood;
     font-family: "Calibri Light";
     font-size: large;
+}
+
+h3 {
+    color: black;
+    font-family: Impact;
+    font-size: medium;
 }
